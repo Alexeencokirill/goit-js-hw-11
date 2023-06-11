@@ -1,4 +1,4 @@
-import axios from "axios";
+import axios from 'axios';
 
 const URL = 'https://pixabay.com/api/';
 const KEY = '37189607-24fd4809c428b985013c85be9';

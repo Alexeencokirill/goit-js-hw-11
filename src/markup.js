@@ -16,7 +16,7 @@ export function markupGallery(array, gallery) {
       <p class="info-item">
         <b>Comments:</b> ${elem.comments}
       </p>
-      
+
       <p class="info-item">
         <b>Downloads:</b> ${elem.downloads}
       </p>
